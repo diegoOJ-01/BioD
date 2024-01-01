@@ -1,0 +1,11 @@
+# Archivos de caché
+__pycache__/
+.cache/
+
+# Archivos de configuración
+.env
+.flaskenv
+.idea/
+
+# archivos de entornos virtuales
+env/
