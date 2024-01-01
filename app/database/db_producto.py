@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv(abspath('.env'))
 
+
 def conexion():
     return connect(
         host=getenv('MYSQL_HOST'),
