@@ -1,0 +1,2 @@
+class ObjectNotValid(Exception):
+    pass
